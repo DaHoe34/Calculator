@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MIRIM계산기</string>
+    <string name="app_name">MIRIM계산기MIRIM</string>
     <string name="str_plus">더하기</string>
     <string name="str_minus">빼기</string>
     <string name="str_divide">나누기</string>
